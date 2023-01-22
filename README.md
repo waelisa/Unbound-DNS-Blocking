@@ -6,3 +6,5 @@ One such list which i found really useful was “StevenBlack” Github Repo wher
 The custom scripts to fetch the list and change it to our need.
 
 For updating our list daily we could run our script as a cronjob.
+
+Add StevenBlack-hosts.conf to unbound.conf .
