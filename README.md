@@ -7,4 +7,8 @@ The custom scripts to fetch the list and change it to our need.
 
 For updating our list daily we could run our script as a cronjob.
 
-Add StevenBlack-hosts.conf to unbound.conf .
+To add StevenBlack-hosts.conf to unbound.conf .
+
+Change /etc/unbound/unbound.conf
+
+include: /etc/unbound/conf.d/*.conf
